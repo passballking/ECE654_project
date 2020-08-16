@@ -1,0 +1,457 @@
+1597357424240	geckodriver	INFO	Listening on 127.0.0.1:60647
+1597357425252	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRvKJQt"
+Error: no DISPLAY environment variable specified
+1597357425454	geckodriver	INFO	Listening on 127.0.0.1:53465
+1597357425460	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevMTxAf"
+Error: no DISPLAY environment variable specified
+1597357673564	geckodriver	INFO	Listening on 127.0.0.1:50863
+1597357673573	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilergX0u7"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597357676660	Marionette	INFO	Listening on port 38551
+1597357676706	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597357682515	Marionette	INFO	Stopped listening on port 38551
+1597357684973	geckodriver	INFO	Listening on 127.0.0.1:39081
+1597357684978	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyEDO7o"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597357688352	Marionette	INFO	Listening on port 36805
+1597357688423	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597357692117	Marionette	INFO	Stopped listening on port 36805
+1597357731304	geckodriver	INFO	Listening on 127.0.0.1:41473
+1597357731311	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0bvs1z"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597357734372	Marionette	INFO	Listening on port 45423
+1597357734438	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597357741080	Marionette	INFO	Stopped listening on port 45423
+1597357742591	geckodriver	INFO	Listening on 127.0.0.1:45521
+1597357742600	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegto5NV"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597357746243	Marionette	INFO	Listening on port 35727
+1597357746345	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597357750048	Marionette	INFO	Stopped listening on port 35727
+1597357871763	geckodriver	INFO	Listening on 127.0.0.1:42063
+1597357871774	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepFLXYr"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597357875061	Marionette	INFO	Listening on port 34385
+1597357875114	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597357883224	Marionette	INFO	Stopped listening on port 34385
+1597357885627	geckodriver	INFO	Listening on 127.0.0.1:44519
+1597357885634	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXcW1SC"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597357889287	Marionette	INFO	Listening on port 42253
+1597357889366	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597357893291	Marionette	INFO	Stopped listening on port 42253
+1597357925639	geckodriver	INFO	Listening on 127.0.0.1:49351
+1597357925647	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehoCqn1"
+Error: no DISPLAY environment variable specified
+1597357925812	geckodriver	INFO	Listening on 127.0.0.1:39681
+1597357925817	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehtMeux"
+Error: no DISPLAY environment variable specified
+1597379265282	geckodriver	INFO	Listening on 127.0.0.1:53941
+1597379266291	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileg7E0eD"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597379315139	Marionette	INFO	Listening on port 35713
+1597379315719	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597379338561	Marionette	INFO	Stopped listening on port 35713
+1597379341293	geckodriver	INFO	Listening on 127.0.0.1:42451
+1597379342305	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6Ep9h3"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1597379402751	geckodriver	INFO	Listening on 127.0.0.1:42329
+1597379403759	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyLJoNv"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: PushServiceWebSocket: 
+  _beginWSSetup: Not in shutdown state! Current state
+  2
+1597379433782	Marionette	INFO	Listening on port 32983
+1597379433999	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597379447568	Marionette	INFO	Stopped listening on port 32983
+1597379450303	geckodriver	INFO	Listening on 127.0.0.1:52909
+1597379450314	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFQnJbE"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597379458442	Marionette	INFO	Listening on port 38075
+1597379458841	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597379470408	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1597379484537	Marionette	INFO	Stopped listening on port 38075
+1597380348942	geckodriver	INFO	Listening on 127.0.0.1:60807
+1597380348950	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9B0nG1"
+Exiting due to channel error.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF7,name=<unknown IPC msg name>) Channel error: cannot send/recv
+
+1597380409643	geckodriver	INFO	Listening on 127.0.0.1:42515
+1597380410653	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePfQdPK"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+Exiting due to channel error.
+Exiting due to channel error.
+1597380470857	geckodriver	INFO	Listening on 127.0.0.1:52641
+1597380471871	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileE7oCV9"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+Exiting due to channel error.
+Exiting due to channel error.
+1597380532103	geckodriver	INFO	Listening on 127.0.0.1:60389
+1597380532122	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileD2QcvD"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+Exiting due to channel error.
+Exiting due to channel error.
+1597439191130	geckodriver	INFO	Listening on 127.0.0.1:42547
+1597439192140	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilensDGeu"
+Error: no DISPLAY environment variable specified
+1597439192477	geckodriver	INFO	Listening on 127.0.0.1:55233
+1597439192488	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO6xepK"
+Error: no DISPLAY environment variable specified
+1597439192643	geckodriver	INFO	Listening on 127.0.0.1:58893
+1597439192650	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevoNFKL"
+Error: no DISPLAY environment variable specified
+1597439192819	geckodriver	INFO	Listening on 127.0.0.1:55763
+1597439192827	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXsgTLT"
+Error: no DISPLAY environment variable specified
+1597439322140	geckodriver	INFO	Listening on 127.0.0.1:55081
+1597439322148	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehIoNrD"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597439325373	Marionette	INFO	Listening on port 37653
+1597439325468	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597439331566	Marionette	INFO	Stopped listening on port 37653
+1597439340067	geckodriver	INFO	Listening on 127.0.0.1:33847
+1597439340073	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefRHWnD"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597439342904	Marionette	INFO	Listening on port 37213
+1597439342994	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597439349082	Marionette	INFO	Stopped listening on port 37213
+1597439354455	geckodriver	INFO	Listening on 127.0.0.1:53207
+1597439354460	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilej1XkYw"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597439357468	Marionette	INFO	Listening on port 33381
+1597439357491	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597439359305	Marionette	INFO	Stopped listening on port 33381
+1597439361714	geckodriver	INFO	Listening on 127.0.0.1:52827
+1597439361720	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDBiFSq"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597439364549	Marionette	INFO	Listening on port 45379
+1597439364666	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597439368166	Marionette	INFO	Stopped listening on port 45379
+1597439799304	geckodriver	INFO	Listening on 127.0.0.1:43145
+1597439799311	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiTkrYh"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597439802163	Marionette	INFO	Listening on port 39697
+1597439802234	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597439808124	Marionette	INFO	Stopped listening on port 39697
+1597439810591	geckodriver	INFO	Listening on 127.0.0.1:60333
+1597439810596	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepySiZp"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597439813439	Marionette	INFO	Listening on port 44193
+1597439813514	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597439819335	Marionette	INFO	Stopped listening on port 44193
+1597439822780	geckodriver	INFO	Listening on 127.0.0.1:34003
+1597439822785	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejauoeA"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597439825590	Marionette	INFO	Listening on port 39703
+1597439825613	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597439827732	Marionette	INFO	Stopped listening on port 39703
+1597439830155	geckodriver	INFO	Listening on 127.0.0.1:45709
+1597439830161	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekxwCOI"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597439833089	Marionette	INFO	Listening on port 39795
+1597439833178	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597439836702	Marionette	INFO	Stopped listening on port 39795
+1597439926218	geckodriver	INFO	Listening on 127.0.0.1:55913
+1597439926225	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4ocis5"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597439929018	Marionette	INFO	Listening on port 41273
+1597439929050	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597439935066	Marionette	INFO	Stopped listening on port 41273
+1597439939498	geckodriver	INFO	Listening on 127.0.0.1:57527
+1597439939504	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYJuHqe"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597439942541	Marionette	INFO	Listening on port 39445
+1597439942622	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597439944895	geckodriver	INFO	Listening on 127.0.0.1:36001
+1597439944900	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKb1UeY"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597439948070	Marionette	INFO	Listening on port 45631
+1597439948121	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597439949914	geckodriver	INFO	Listening on 127.0.0.1:51905
+1597439949920	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecEQWx8"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597439954978	Marionette	INFO	Listening on port 34259
+1597439955065	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597439975587	Marionette	INFO	Stopped listening on port 45631
+1597439975998	Marionette	INFO	Stopped listening on port 34259
+1597439976128	Marionette	INFO	Stopped listening on port 39445
+1597440041251	geckodriver	INFO	Listening on 127.0.0.1:54055
+1597440042283	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCNUUpi"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597440045217	Marionette	INFO	Listening on port 36597
+1597440045304	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597440051257	Marionette	INFO	Stopped listening on port 36597
+1597440054680	geckodriver	INFO	Listening on 127.0.0.1:59649
+1597440054685	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexYFjJn"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597440057672	Marionette	INFO	Listening on port 45389
+1597440057740	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597440063326	Marionette	INFO	Stopped listening on port 45389
+1597440071722	geckodriver	INFO	Listening on 127.0.0.1:47335
+1597440071726	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePsEeI9"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597440074614	Marionette	INFO	Listening on port 40103
+1597440074655	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597440076624	Marionette	INFO	Stopped listening on port 40103
+1597440080040	geckodriver	INFO	Listening on 127.0.0.1:57175
+1597440080047	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekNGYzH"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597440082906	Marionette	INFO	Listening on port 46363
+1597440082965	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597440086909	Marionette	INFO	Stopped listening on port 46363
+1597458865054	geckodriver	INFO	Listening on 127.0.0.1:60007
+1597458866065	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegX55ak"
+Error: no DISPLAY environment variable specified
+1597458866242	geckodriver	INFO	Listening on 127.0.0.1:35131
+1597458866248	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewZjzz0"
+Error: no DISPLAY environment variable specified
+1597458866382	geckodriver	INFO	Listening on 127.0.0.1:57465
+1597458866387	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1pvTqm"
+Error: no DISPLAY environment variable specified
+1597458866526	geckodriver	INFO	Listening on 127.0.0.1:40243
+1597458866532	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilea2iZZ3"
+Error: no DISPLAY environment variable specified
+1597458866665	geckodriver	INFO	Listening on 127.0.0.1:47897
+1597458866670	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8IQ8U3"
+Error: no DISPLAY environment variable specified
+1597461854148	geckodriver	INFO	Listening on 127.0.0.1:45357
+1597461855158	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVIecPl"
+Error: no DISPLAY environment variable specified
+1597461855327	geckodriver	INFO	Listening on 127.0.0.1:53837
+1597461855332	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei8HrLu"
+Error: no DISPLAY environment variable specified
+1597461855464	geckodriver	INFO	Listening on 127.0.0.1:45565
+1597461855469	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenuhUhe"
+Error: no DISPLAY environment variable specified
+1597461855603	geckodriver	INFO	Listening on 127.0.0.1:57195
+1597461855608	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI4XSNC"
+Error: no DISPLAY environment variable specified
+1597461855740	geckodriver	INFO	Listening on 127.0.0.1:58539
+1597461855744	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemFnCnv"
+Error: no DISPLAY environment variable specified
+1597461999256	geckodriver	INFO	Listening on 127.0.0.1:43975
+1597461999274	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeQ1itQ"
+Error: no DISPLAY environment variable specified
+1597461999590	geckodriver	INFO	Listening on 127.0.0.1:45009
+1597461999600	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledwlRyy"
+Error: no DISPLAY environment variable specified
+1597461999765	geckodriver	INFO	Listening on 127.0.0.1:53769
+1597461999773	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJEcZR1"
+Error: no DISPLAY environment variable specified
+1597461999941	geckodriver	INFO	Listening on 127.0.0.1:52865
+1597461999953	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1jat7c"
+Error: no DISPLAY environment variable specified
+1597462000125	geckodriver	INFO	Listening on 127.0.0.1:55501
+1597462000134	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXDJ8GS"
+Error: no DISPLAY environment variable specified
+1597462086172	geckodriver	INFO	Listening on 127.0.0.1:56465
+1597462087183	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletSDfL9"
+Error: no DISPLAY environment variable specified
+1597462087473	geckodriver	INFO	Listening on 127.0.0.1:52743
+1597462087481	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileplwA4u"
+Error: no DISPLAY environment variable specified
+1597462087624	geckodriver	INFO	Listening on 127.0.0.1:52595
+1597462087631	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemDnCJI"
+Error: no DISPLAY environment variable specified
+1597462087774	geckodriver	INFO	Listening on 127.0.0.1:43225
+1597462087783	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUpVmuO"
+Error: no DISPLAY environment variable specified
+1597462087926	geckodriver	INFO	Listening on 127.0.0.1:42883
+1597462087933	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileviX00V"
+Error: no DISPLAY environment variable specified
+1597462164250	geckodriver	INFO	Listening on 127.0.0.1:36281
+1597462164260	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC0GqAR"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+Exiting due to channel error.
+Exiting due to channel error.
+1597462224704	geckodriver	INFO	Listening on 127.0.0.1:49247
+1597462224734	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefDL7Hi"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597462691875	geckodriver	INFO	Listening on 127.0.0.1:37133
+1597462692887	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqo9k6X"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597462697101	Marionette	INFO	Listening on port 42725
+1597462697112	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597462701092	geckodriver	INFO	Listening on 127.0.0.1:48627
+1597462701096	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqyn0z9"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597462704481	Marionette	INFO	Listening on port 42419
+1597462704511	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597462710214	Marionette	INFO	Stopped listening on port 42419
+1597462712517	geckodriver	INFO	Listening on 127.0.0.1:54681
+1597462712522	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilet9OrwO"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597462715293	Marionette	INFO	Listening on port 34263
+1597462715335	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597462720893	Marionette	INFO	Stopped listening on port 34263
+1597462723200	geckodriver	INFO	Listening on 127.0.0.1:44577
+1597462723205	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiL8U7W"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597462725947	Marionette	INFO	Listening on port 37901
+1597462726023	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597462727709	Marionette	INFO	Stopped listening on port 37901
+1597462731126	geckodriver	INFO	Listening on 127.0.0.1:53689
+1597462731131	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTLubSr"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597462733681	Marionette	INFO	Listening on port 33555
+1597462733747	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597462737117	Marionette	INFO	Stopped listening on port 33555
+1597462784282	Marionette	INFO	Stopped listening on port 42725
+1597462924239	geckodriver	INFO	Listening on 127.0.0.1:41995
+1597462924246	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMj5pZG"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597462927768	Marionette	INFO	Listening on port 33629
+1597462927883	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597462932277	Marionette	INFO	Stopped listening on port 33629
+1597462941598	geckodriver	INFO	Listening on 127.0.0.1:37871
+1597462941603	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevu8BkL"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597462944351	Marionette	INFO	Listening on port 36935
+1597462944426	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597462950172	Marionette	INFO	Stopped listening on port 36935
+1597462952581	geckodriver	INFO	Listening on 127.0.0.1:33873
+1597462952587	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerq8iHV"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597462955619	Marionette	INFO	Listening on port 33419
+1597462955708	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597462961497	Marionette	INFO	Stopped listening on port 33419
+1597462964855	geckodriver	INFO	Listening on 127.0.0.1:35931
+1597462964860	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevVRrf4"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597462967914	Marionette	INFO	Listening on port 46367
+1597462968003	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597462969964	Marionette	INFO	Stopped listening on port 46367
+1597462973362	geckodriver	INFO	Listening on 127.0.0.1:34585
+1597462973370	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDkV6UV"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597462976148	Marionette	INFO	Listening on port 44361
+1597462976188	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597462979713	Marionette	INFO	Stopped listening on port 44361
+1597463256186	geckodriver	INFO	Listening on 127.0.0.1:45827
+1597463256195	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRPXfft"
+Error: no DISPLAY environment variable specified
+1597463256359	geckodriver	INFO	Listening on 127.0.0.1:45991
+1597463256364	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerc4TpV"
+Error: no DISPLAY environment variable specified
+1597463256499	geckodriver	INFO	Listening on 127.0.0.1:57903
+1597463256504	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilew86SQo"
+Error: no DISPLAY environment variable specified
+1597463256639	geckodriver	INFO	Listening on 127.0.0.1:58411
+1597463256644	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepVt4qw"
+Error: no DISPLAY environment variable specified
+1597463256776	geckodriver	INFO	Listening on 127.0.0.1:47175
+1597463256781	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqro0FZ"
+Error: no DISPLAY environment variable specified
+1597463438240	geckodriver	INFO	Listening on 127.0.0.1:54751
+1597463438247	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMhvW3D"
+Error: no DISPLAY environment variable specified
+1597463438415	geckodriver	INFO	Listening on 127.0.0.1:49031
+1597463438420	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2KKVU4"
+Error: no DISPLAY environment variable specified
+1597463438561	geckodriver	INFO	Listening on 127.0.0.1:36285
+1597463438566	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileafSa5U"
+Error: no DISPLAY environment variable specified
+1597463438698	geckodriver	INFO	Listening on 127.0.0.1:58209
+1597463438703	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileytC0pg"
+Error: no DISPLAY environment variable specified
+1597463438846	geckodriver	INFO	Listening on 127.0.0.1:59881
+1597463438850	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenbITOx"
+Error: no DISPLAY environment variable specified
+1597463514898	geckodriver	INFO	Listening on 127.0.0.1:42943
+1597463514906	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyg1fsJ"
+Error: no DISPLAY environment variable specified
+1597463515080	geckodriver	INFO	Listening on 127.0.0.1:34651
+1597463515086	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile487mIN"
+Error: no DISPLAY environment variable specified
+1597463515217	geckodriver	INFO	Listening on 127.0.0.1:40461
+1597463515221	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeKkus9"
+Error: no DISPLAY environment variable specified
+1597463515355	geckodriver	INFO	Listening on 127.0.0.1:37673
+1597463515360	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8p2rNU"
+Error: no DISPLAY environment variable specified
+1597463515492	geckodriver	INFO	Listening on 127.0.0.1:55247
+1597463515497	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevXTiws"
+Error: no DISPLAY environment variable specified
+1597463715838	geckodriver	INFO	Listening on 127.0.0.1:37083
+1597463715845	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegMZR13"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597463718964	Marionette	INFO	Listening on port 45265
+1597463718974	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597463722403	Marionette	INFO	Stopped listening on port 45265
+1597463726830	geckodriver	INFO	Listening on 127.0.0.1:55357
+1597463726838	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8ldXXq"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597463730012	Marionette	INFO	Listening on port 38325
+1597463730078	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597463735757	Marionette	INFO	Stopped listening on port 38325
+1597463738107	geckodriver	INFO	Listening on 127.0.0.1:48639
+1597463738111	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2yzOh4"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597463740651	Marionette	INFO	Listening on port 42301
+1597463740724	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597463746243	Marionette	INFO	Stopped listening on port 42301
+1597463748702	geckodriver	INFO	Listening on 127.0.0.1:52589
+1597463748708	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZRfz13"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597463751789	Marionette	INFO	Listening on port 33523
+1597463751829	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597463753924	Marionette	INFO	Stopped listening on port 33523
+1597463756563	geckodriver	INFO	Listening on 127.0.0.1:33933
+1597463756570	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUcmDTg"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597463761450	Marionette	INFO	Listening on port 45757
+1597463761512	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597463765534	Marionette	INFO	Stopped listening on port 45757
+1597463851078	geckodriver	INFO	Listening on 127.0.0.1:38833
+1597463851086	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileinxdT5"
+Error: no DISPLAY environment variable specified
+1597463851251	geckodriver	INFO	Listening on 127.0.0.1:58953
+1597463851256	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePdJprG"
+Error: no DISPLAY environment variable specified
+1597463851394	geckodriver	INFO	Listening on 127.0.0.1:54671
+1597463851399	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerJPf4s"
+Error: no DISPLAY environment variable specified
+1597463851551	geckodriver	INFO	Listening on 127.0.0.1:42989
+1597463851557	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefdUaOs"
+Error: no DISPLAY environment variable specified
+1597463851692	geckodriver	INFO	Listening on 127.0.0.1:36357
+1597463851697	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecHXUAI"
+Error: no DISPLAY environment variable specified
+1597463999886	geckodriver	INFO	Listening on 127.0.0.1:51053
+1597463999894	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEzjS4w"
+Error: no DISPLAY environment variable specified
+1597464000065	geckodriver	INFO	Listening on 127.0.0.1:34487
+1597464000070	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJw3wn9"
+Error: no DISPLAY environment variable specified
+1597464000208	geckodriver	INFO	Listening on 127.0.0.1:39285
+1597464000212	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4OIiET"
+Error: no DISPLAY environment variable specified
+1597464000345	geckodriver	INFO	Listening on 127.0.0.1:48731
+1597464000351	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8EjjRp"
+Error: no DISPLAY environment variable specified
+1597464000485	geckodriver	INFO	Listening on 127.0.0.1:51905
+1597464000489	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHmI6Lp"
+Error: no DISPLAY environment variable specified
+1597464199575	geckodriver	INFO	Listening on 127.0.0.1:38535
+1597464200587	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileowwHiH"
+Error: no DISPLAY environment variable specified
+1597464200754	geckodriver	INFO	Listening on 127.0.0.1:45091
+1597464200759	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejoyKpk"
+Error: no DISPLAY environment variable specified
+1597464200896	geckodriver	INFO	Listening on 127.0.0.1:42657
+1597464200900	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCA5ASA"
+Error: no DISPLAY environment variable specified
+1597464201040	geckodriver	INFO	Listening on 127.0.0.1:46363
+1597464201044	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileB4h9I2"
+Error: no DISPLAY environment variable specified
+1597464201178	geckodriver	INFO	Listening on 127.0.0.1:60881
+1597464201184	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHX68GQ"
+Error: no DISPLAY environment variable specified
